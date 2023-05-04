@@ -21,6 +21,7 @@
 | 1217050096 | Muhammad gifa algifari | https://github.com/gifaalgifari/Tugas-PBO.git |
 | 1217050098 | Muhammad Kemal Pasha | https://github.com/mkp-kemal/PBO/tree/main/TugasImplementasi |
 | 1217050099 | Muhammad Naufal Muthahhari | https://github.com/blebeb01/PBO-teori |
+| 1217050072 | Khafka Fadillah Wiabawa Nurdiansyah | https://github.com/kafkafadillah/PBO |
 
 
 
