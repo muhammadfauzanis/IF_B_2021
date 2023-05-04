@@ -8,6 +8,7 @@
 | 1217050056 | Fazar Budiman | https://github.com/FazarBudiman/OOP |
 | 1217050057 | Fazli Mawla Ghifari | https://github.com/fazlimawla17/PBO-Teori |
 | 1217050058 | Fiki Aprian | https://github.com/fikiap23/PBO-Teori.git |
+| 1217050059 | Haikal Mufid Mubarok | https://github.com/haikalmufid/PBO |
 | 1217050060 | Haiqel Aziizul Hakeem | https://github.com/Haiqelhakeem/PBO |
 | 1217050061 | Handal Khomsyat | https://github.com/handalkhom/PBO |
 | 1217050064 | Hilmi Ali Salsabila | https://github.com/HilmiAliSalsabila/TBOTeori.git |
