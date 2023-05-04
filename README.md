@@ -12,6 +12,7 @@
 | 1217050060 | Haiqel Aziizul Hakeem | https://github.com/Haiqelhakeem/PBO |
 | 1217050061 | Handal Khomsyat | https://github.com/handalkhom/PBO |
 | 1217050064 | Hilmi Ali Salsabila | https://github.com/HilmiAliSalsabila/TBOTeori.git |
+| 1217050066 | Hubbal Kholiq Habbaza | https://github.com/habbazettt/PBO-main |
 | 1217050068 | Imam Sayyid Rahman | https://github.com/ImamSR/PBO-Tugas-OOP |
 | 1217050070 | Irwanto Danang Bahtiar | https://github.com/DanKoyuki/OOP.git |
 | 1217050071 | Kensa Baeren Deftnamor | https://gitlab.com/kensa_baerend/pbo |
