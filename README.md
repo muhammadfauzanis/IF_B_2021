@@ -14,6 +14,7 @@
 | 1217050076 | M. Hasbi Hasbullah | https://github.com/mhmdhasbi/Tugas-PBO.git |
 | 1217050078 | Megan Medellin | https://github.com/meganmedellin/Tugas-OOP |
 | 1217050081 | Mochammad Rizky Ramadhani| https://github.com/Mokyra18/PBO |
+| 1217050083 | Mohammad Ezra Nur Islami| https://github.com/ezra4554/Tugas-PBO.git |
 | 1217050085 | Muhamad Iqbal fauzi | https://github.com/MiqbalF2021/pemrograman-berorientasi-object.git |
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050091 | Muhammad Faisal | https://github.com/faisalach/teori_pbo |
