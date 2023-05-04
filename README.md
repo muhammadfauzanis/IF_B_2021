@@ -21,7 +21,7 @@
 | 1217050078 | Megan Medellin | https://github.com/meganmedellin/Tugas-OOP |
 | 1217050079 | Moch Fadillah Azhar | https://github.com/MochFadillahAzhar/PBO |
 | 1217050081 | Mochammad Rizky Ramadhani| https://github.com/Mokyra18/PBO |
-| 1217050083 | Mohammad Ezra Nur Islami| https://github.com/ezra4554/Tugas-PBO.git |
+| 1217050083 | Mohammad Ezra Nur Islami| https://github.com/ezra4554/Tugas-PBO |
 | 1217050085 | Muhamad Iqbal fauzi | https://github.com/MiqbalF2021/pemrograman-berorientasi-object.git |
 | 1217050086 | Muhamad Randi Septiansah | https://github.com/randi9/tugas_pbo.git |
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
