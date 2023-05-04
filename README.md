@@ -33,6 +33,8 @@
 | 1217050099 | Muhammad Naufal Muthahhari | https://github.com/blebeb01/PBO-teori |
 | 1217050072 | Khafka Fadillah Wiabawa Nurdiansyah | https://github.com/kafkafadillah/PBO |
 | 1217050073 | Khaidar Rabbani | https://github.com/khaidarrabbani/tugaspbo.git |
+| 1217050092 | Muhammad Faiz Robbany | https://github.com/fzr02/Tugas-PBO |
+
 
 
 
