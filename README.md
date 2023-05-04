@@ -13,6 +13,7 @@
 | 1217050061 | Handal Khomsyat | https://github.com/handalkhom/PBO |
 | 1217050064 | Hilmi Ali Salsabila | https://github.com/HilmiAliSalsabila/TBOTeori.git |
 | 1217050070 | Irwanto Danang Bahtiar | https://github.com/DanKoyuki/OOP.git |
+| 1217050071 | Kensa Baeren Deftnamor | https://gitlab.com/kensa_baerend/pbo |
 | 1217050074 | Kireina Amani Ridiesto | https://github.com/kireina16ar/PBO.git |
 | 1217050075 | M Dzafadhlan F Muzakki | https://github.com/dzafadhlan/PBO.git|
 | 1217050076 | M. Hasbi Hasbullah | https://github.com/mhmdhasbi/Tugas-PBO.git |
