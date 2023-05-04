@@ -18,6 +18,7 @@
 | 1217050081 | Mochammad Rizky Ramadhani| https://github.com/Mokyra18/PBO |
 | 1217050083 | Mohammad Ezra Nur Islami| https://github.com/ezra4554/Tugas-PBO.git |
 | 1217050085 | Muhamad Iqbal fauzi | https://github.com/MiqbalF2021/pemrograman-berorientasi-object.git |
+| 1217050086 | Muhamad Randi Septiansah | https://github.com/randi9/tugas_pbo.git |
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050091 | Muhammad Faisal | https://github.com/faisalach/teori_pbo |
 | 1217050097 | Muhammad Ikhsan Nurhalim | https://github.com/ikhsannhlm/Object_Oriented_Programming |
