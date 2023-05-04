@@ -27,7 +27,7 @@
 | 1217050098 | Muhammad Kemal Pasha | https://github.com/mkp-kemal/PBO/tree/main/TugasImplementasi |
 | 1217050099 | Muhammad Naufal Muthahhari | https://github.com/blebeb01/PBO-teori |
 | 1217050072 | Khafka Fadillah Wiabawa Nurdiansyah | https://github.com/kafkafadillah/PBO |
-
+| 1217050073 | Khaidar Rabbani | https://github.com/khaidarrabbani/tugaspbo.git |
 
 
 
